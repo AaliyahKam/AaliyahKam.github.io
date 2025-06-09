@@ -106,6 +106,14 @@
 </ul>
 
 <hr>
+<h2>🎓 Certifications</h2>
+<ul>
+  <li><strong>IBM Certified in Cybersecurity</strong> — 03/2023</li>
+  <li><strong>Google Certified in Cybersecurity</strong> — 04/2023</li>
+  <li><strong>(ISC)² Certified in Security</strong> — 08/2023</li>
+  <li><strong>CompTIA Security+</strong> — In Progress</li>
+</ul>
+
 
 <h2>🌐 Contact</h2>
 <ul>
