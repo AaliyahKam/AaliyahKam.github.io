@@ -7,3 +7,5 @@ My name is Aaliyah Lockett, a senior Computer Science student at the Unsinkable 
 A few of my experiences include supporting IT operations at Marine Corps Logistics Base Albany (MCLB), where I operated in a mission-critical, security-focused environment, and contributing to behind-the-scenes tech operations at Walt Disney World, where I learned the value of precision, timing, and seamless user experiences on a global scale. These roles, along with my academic projects, have shaped my approach: analytical, adaptive, and always mission-focused.
 I’ve worked with languages like Java, Python, and JavaScript, and have built systems that are not just functional, but thoughtful—designed with user experience, clarity, and security in mind. Whether developing cybersecurity strategies with blockchain, debugging web functionality, or supporting team collaboration, I approach each challenge with precision, persistence, and a genuine passion for technology’s potential to do good.
 </p>
+
+<img src="Aaliyah Headshot.jpg" width="150px"> 
